@@ -51,4 +51,3 @@ Onde o primeiro número representa o ID da cidade, o segundo representa o ponto 
 Segue abaixo um exemplo:
 
 ![](Aspose.Words.7c1e2b0e-3cb8-4e40-aa71-e5e92890c4be.002.png)![Aspose Words 7c1e2b0e-3cb8-4e40-aa71-e5e92890c4be 002](https://github.com/alyssoncrvg/Entrega-de-encomendas/assets/106557997/782f5475-4dc2-416e-b8bf-b6d548316167)
-![Uploading Aspose.Words.7c1e2b0e-3cb8-4e40-aa71-e5e92890c4be.001.png…]()
