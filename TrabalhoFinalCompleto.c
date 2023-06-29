@@ -1,6 +1,3 @@
-// Tema 1
-// Alunos: Alysson Pereira e Mikael Cauã
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
